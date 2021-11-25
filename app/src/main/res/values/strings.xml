@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CrescimentoEmpresarial</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="crescimento_empresarial">Crescimento Empresarial</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+</resources>
